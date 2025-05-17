@@ -1,0 +1,20 @@
+Keja Safi Cleaners body { margin: 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #121212; color: #f5f5f5; } header { background-color: #000; padding: 20px; text-align: center; border-bottom: 3px solid gold; } .logo { font-size: 24px; font-weight: bold; color: gold; } nav { display: flex; justify-content: center; background-color: #1e1e1e; } nav a { padding: 14px 20px; display: block; color: gold; text-decoration: none; } nav a:hover { background-color: #333; } section { padding: 40px 20px; max-width: 800px; margin: auto; } h2 { color: gold; } ul { list-style: none; padding: 0; } ul li::before { content: '✔'; color: gold; padding-right: 10px; } form label { display: block; margin-top: 15px; } input, select, textarea, button { width: 100%; padding: 10px; margin-top: 5px; border: 1px solid #555; border-radius: 4px; background-color: #1e1e1e; color: white; } button { background-color: gold; color: black; font-weight: bold; cursor: pointer; } button:hover { background-color: #e6c200; } footer { text-align: center; background-color: #000; padding: 20px; color: #aaa; } 
+Keja Safi Cleaners
+Construction Cleaning Experts
+Home About Us Services Contact Booking 
+Welcome to Keja Safi Cleaners
+We provide thorough construction cleaning services across Kenya, ensuring your space is spotless and ready to use.
+About Us
+Keja Safi Cleaners is dedicated to post-construction cleaning excellence. We clean newly built or renovated sites with precision, professionalism, and pride.
+Our Services
+• Debris and Dust Removal
+• Window and Glass Cleaning
+• Tile and Floor Polishing
+• Wall and Ceiling Dusting
+• Custom Site Cleanups
+Contact Us
+Email: mungairoy41@gmail.com
+WhatsApp: +254 701 382 918
+Booking Form
+Full Name: <label for="email">Email Address:</label> <input type="email" id="email" name="Email" required> <label for="services">Select Services:</label> <select id="services" name="Services" multiple size="5"> <option value="Debris and Dust Removal">Debris and Dust Removal</option> <option value="Window and Glass Cleaning">Window and Glass Cleaning</option> <option value="Tile and Floor Polishing">Tile and Floor Polishing</option> <option value="Wall and Ceiling Dusting">Wall and Ceiling Dusting</option> <option value="Custom Site Cleanups">Custom Site Cleanups</option> </select> <label for="notes">Additional Notes:</label> <textarea id="notes" name="Notes" rows="4"></textarea> <button type="submit">Submit Booking</button> 
+© 2025 Keja Safi Cleaners. All rights reserved.
